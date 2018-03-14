@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.5.1)
+  - JVFloatLabeledTextField (1.2.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - JVFloatLabeledTextField
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  JVFloatLabeledTextField: cfc44e3c4d493b2ed92ede8035e8e89c2912ba64
+
+PODFILE CHECKSUM: 1936ff0fd320fb9b3f37fc079cc8b536c0e937e8
+
+COCOAPODS: 1.4.0

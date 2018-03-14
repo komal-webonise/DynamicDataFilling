@@ -1,0 +1,6 @@
+framework module Pods_DynamicDataFillingAssignment {
+  umbrella header "Pods-DynamicDataFillingAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
